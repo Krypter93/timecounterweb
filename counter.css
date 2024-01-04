@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(img/hourglass-4666692_1280.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100vh;
+    height: 100%vh;
+    background-size: cover;
+    
+}
+
+.head #title{
+    text-align: center;
+    padding: 10px;
+    margin-top: 250px;
+}
+
+.container{
+    text-align: center;
+}
+
+.container div{
+    display: inline-block;
+}
+
+.container input{
+    width: 50px;
+    padding: 5px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.buttons{
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.buttons button{
+    margin: 0 10px;
+}
